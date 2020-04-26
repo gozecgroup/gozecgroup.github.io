@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Gozeconstruction",
-    "currentPage": "projects.html",
+    "currentPage": "services.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1162,7 +1162,7 @@
     "services.html": {
       "settings": {
         "meta_descr": "Web Page Builder Description",
-        "title": "services",
+        "title": "services  | Gozec Groups",
         "order": 4
       },
       "components": [
@@ -1879,7 +1879,7 @@
     "about.html": {
       "settings": {
         "meta_descr": "Site Generator Description",
-        "title": "about",
+        "title": "about ",
         "order": 3
       },
       "components": [
@@ -2465,7 +2465,7 @@
     "projects.html": {
       "settings": {
         "meta_descr": "Website Builder Description",
-        "title": "projects",
+        "title": "Our projects | Gozec Groups",
         "order": 1
       },
       "components": [
@@ -3138,7 +3138,7 @@
     "contact.html": {
       "settings": {
         "meta_descr": "Website Builder Description",
-        "title": "contact",
+        "title": "contact ",
         "order": 2
       },
       "components": [
