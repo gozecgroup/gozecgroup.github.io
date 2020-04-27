@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Gozeconstruction",
-    "currentPage": "contact.html",
+    "currentPage": "projects.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -3013,7 +3013,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Gas Plant at Oba, Anambra State",
+                "caption": "Petilo water Industry Oba Anambra State",
                 "active": true
               },
               {
@@ -3039,7 +3039,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Gracefield estate boarder road ikom Cross Rivers state",
+                "caption": "Gracefield Estate boarder road ikom Cross Rivers State",
                 "active": false
               },
               {
@@ -3065,7 +3065,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Petilo water industry oba Anambra state",
+                "caption": "Petilo water Industry Oba Anambra State",
                 "active": false
               },
               {
